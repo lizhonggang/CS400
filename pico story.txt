@@ -1,0 +1,87 @@
+[33mcommit 0fc3e3c7718817ba87f367dfd2a8e6c36db66ee0[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Samuel Bahr <sbahr@snares-08.cs.wisc.edu>
+Date:   Sun Mar 22 12:51:52 2020 -0500
+
+    <Samuel Bahr> addition
+
+[33mcommit 950586ff12e303909d34c4d532895b7c9abdef35[m
+Author: Luke Le Clair <le-clair@royal-13.cs.wisc.edu>
+Date:   Fri Mar 6 13:25:52 2020 -0600
+
+    Luke Le Clair addition
+
+[33mcommit d162b73df9de10c88a7b4f17a6672aecaa28eb10[m
+Author: ZHONGGANG LI <60949926+lizhonggang@users.noreply.github.com>
+Date:   Wed Mar 4 17:43:35 2020 -0600
+
+    Update story.txt
+
+[33mcommit 163009292f970409cdb87640334bfeed0ec6248c[m
+Author: lizhonggang <zli769@wisc.edu>
+Date:   Sat Feb 29 19:28:01 2020 -0600
+
+    add new file java file
+
+[33mcommit 4348b152ae621f7366f9010bd36525e39be445dc[m
+Author: ZHONGGANG LI <60949926+lizhonggang@users.noreply.github.com>
+Date:   Fri Feb 28 13:18:26 2020 -0600
+
+    Rename story.ext to story.txt
+
+[33mcommit 6ee58d2c3bf961ea48974758eba701ee7e8e3c1d[m
+Author: ZHONGGANG LI <60949926+lizhonggang@users.noreply.github.com>
+Date:   Fri Feb 28 13:18:08 2020 -0600
+
+    Create story.ext
+
+[33mcommit f11d08fcfc2fd7c646b2b081eddd831b20d91081[m
+Author: ZHONGGANG LI <60949926+lizhonggang@users.noreply.github.com>
+Date:   Wed Feb 26 20:23:34 2020 -0600
+
+    Update README.md
+
+[33mcommit 5b8711621920ddc0dca55c029be8b748a300d176[m
+Author: ZHONGGANG LI <60949926+lizhonggang@users.noreply.github.com>
+Date:   Sat Feb 22 17:29:38 2020 -0600
+
+    Update readme
+
+[33mcommit 0a85220c401973c892b0d0c3a822241ae012b83c[m
+Author: ZHONGGANG LI <60949926+lizhonggang@users.noreply.github.com>
+Date:   Sat Feb 22 15:45:00 2020 -0600
+
+    Set theme jekyll-theme-merlot
+
+[33mcommit 0321b3d40d1df6e0d7b18970559182c8889aeaae[m
+Author: ZHONGGANG LI <60949926+lizhonggang@users.noreply.github.com>
+Date:   Sat Feb 22 15:42:21 2020 -0600
+
+    Set theme jekyll-theme-leap-day
+
+[33mcommit 345f36c69656011e5436d0a867fb31ca86de709f[m
+Author: lizhonggang <zli769@wisc.edu>
+Date:   Sat Feb 22 15:30:18 2020 -0600
+
+    make a copy
+
+[33mcommit 71beb962e4c4fcf4534010a76cce0fdffa276d14[m
+Author: ZHONGGANG LI <60949926+lizhonggang@users.noreply.github.com>
+Date:   Fri Feb 21 22:20:32 2020 -0600
+
+    Update hello.java to  version 2
+    
+    version2 of hello java
+
+[33mcommit 1b29f996f6c56fd45f2e5adbe10b4875abec9f33[m
+Author: ZHONGGANG LI <60949926+lizhonggang@users.noreply.github.com>
+Date:   Fri Feb 21 22:16:37 2020 -0600
+
+    Create hello java
+    
+    first generate the first hello java file
+
+[33mcommit 6ec56bd1d1eb234878658e89450352e0bacbb099[m
+Author: ZHONGGANG LI <60949926+lizhonggang@users.noreply.github.com>
+Date:   Fri Feb 21 22:08:02 2020 -0600
+
+    Create README.md
