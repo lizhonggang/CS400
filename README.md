@@ -13,8 +13,8 @@ Team Members:
  
 	Luke Clair (lleclair@wisc.edu)
 	John Li (zli769@wisc.edu)
-		Samuel Bahr (sdbahr@wisc.edu)
-Jonathan Luong (jluong@wisc.edu)
+        Samuel Bahr (sdbahr@wisc.edu)
+        Jonathan Luong (jluong@wisc.edu)
  
 Problem: 
  
