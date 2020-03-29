@@ -9,10 +9,10 @@ This repo is created for CS400.This repo is used for X team and project.Design A
 	x142
  
 3.Team Members: 
-	Luke Clair (lleclair@wisc.edu)
-	John Li (zli769@wisc.edu)
-        Samuel Bahr (sdbahr@wisc.edu)
-        Jonathan Luong (jluong@wisc.edu)
+	Luke Clair (lleclair@wisc.edu);
+	John Li (zli769@wisc.edu);
+        Samuel Bahr (sdbahr@wisc.edu);
+        Jonathan Luong (jluong@wisc.edu);
  
 4.Problem: 
  
@@ -29,7 +29,7 @@ This repo is created for CS400.This repo is used for X team and project.Design A
 10.Milestones:
  
 11.Assign tasks:       
-        Luke will finish
-        John will finish
-	Samuel will finish
-	Jonathan will finish
+        Luke will finish;
+        John will finish;
+	Samuel will finish;
+	Jonathan will finish;
