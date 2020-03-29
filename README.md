@@ -3,33 +3,32 @@ CS400 Team Project
 
 This repo is created for CS400.This repo is used for X team and project.Design A Shopping Checklist Auto-Generator
 
-Project Title: 
+1.Project Title: 
  
-X-Team Number:  
+2.X-Team Number:  
 	x142
  
-Team Members: 
+3.Team Members: 
 	Luke Clair (lleclair@wisc.edu)
 	John Li (zli769@wisc.edu)
         Samuel Bahr (sdbahr@wisc.edu)
         Jonathan Luong (jluong@wisc.edu)
  
-Problem: 
+4.Problem: 
  
-Primary stakeholder: 
+5.Primary stakeholder: 
  
-Graphical User interface: 
+6.Graphical User interface: 
  
-Data Structure: 
+7.Data Structure: 
  
-Input Data File Format: 
+8.Input Data File Format: 
  
-Output Example: 
+9.Output Example: 
  
-Milestones:
+10.Milestones:
  
-Assign tasks: 
-      
+11.Assign tasks:       
         Luke will finish
         John will finish
 	Samuel will finish
